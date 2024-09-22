@@ -1,0 +1,21 @@
+add_schedule = 'Add schedule'
+Listex_admin_panel = 'Listex admin panel'
+code_instructions = 'Please send date code (0 - today, 1 - tomorrow, -1 - yesterday)'
+send_file = 'Send file'
+success = 'Success!'
+there_is_no_schedule_for = 'There is no schedule for '
+change_date = 'Change date'
+yesterday = 'Yesterday'
+today = 'Today'
+tomorrow = 'Tomorrow'
+menu = 'Menu'
+greetings = 'Hello! Listex is a simple and convenient tool to quickly get the current schedule in Gymnasium №2. By continuing to use it, you automatically agree to the user agreement /terms_of_use (click to read).'
+terms_of_use = 'Listex is a project that provides access to the schedule at Gymnasium №2 in Yekaterinburg. The developers of the bot are not responsible for any consequences associated with its use. Listex does not store any personal data of users except for the chat ID in temporary storage, which is reset when the program is restarted. This data is necessary for the correct operation of the program.'
+choose_parallel = 'Choose parallel'
+choose_class = 'Choose class'
+list_of_all_classes = ['5А', '5Б', '5В', '5Г', '6А', '6Б', '6В', '6Г', '7А', '7Б', '7В', '7Г', '8А', '8Б', '8В',
+                       '8Г', '9А', '9Б', '9В', '9Г', '10А', '10Б', '10В', '10Г', '10Д', '10Е', '11А', '11Б', '11В',
+                       '11Г', '11Д', '11Е', '11Ж']
+trouble_text = 'We have some troubles right now, but we are trying to fix it :)'
+date_changed_to = 'Date successfully changed to '
+i_dont_understand = 'I\'m sorry, I don\'t understand :('
